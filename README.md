@@ -32,3 +32,11 @@
     src="Preview/brands_footer.png"
   >
 </p>
+<br>
+<h1>Products Page</h1>
+<br>
+<p align="center">
+  <img 
+    src="Preview/product.png"
+  >
+</p>
